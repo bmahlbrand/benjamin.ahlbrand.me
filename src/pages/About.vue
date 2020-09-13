@@ -23,7 +23,7 @@
             <p
               class="leading-6 text-purple-600 font-semibold tracking-wide uppercase"
             >
-              What is The Outpost?
+              Who is Ben?
             </p>
             <h1
               class="mt-2 mb-8 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10"
@@ -31,73 +31,26 @@
               About
             </h1>
             <p class="text-lg leading-7 text-gray-500 mb-5">
-              The Outpost is a remote VR social experience for 2-6 participants
-              who are completely immersed together as robots on a tropical beach
-              -- set in the future on a faraway planet. As a participant, you
-              sip tropical drinks, play games, and chat with other SIGGRAPH
-              attendees in this strange and wondrous refuge.
+              Chillin'
             </p>
             <div class="prose text-gray-500">
               <p>
-                We have shown multi-participant immersive co-located VR
-                experiences at SIGGRAPH since 2015. One of our previous works --
-                CAVE -- which premiered at SIGGRAPH 2018, won Best Art Paper at
-                SIGGRAPH 2019. The Outpost is a far more lean-forward
-                experience, representing an innovative new paradigm for
-                multi-participant VR. It is an inside-out tracked social VR
-                experience, containing procedural characters and avatars. The
-                entire state of the shared virtual world is synchronized for 2-6
-                participants.
+                Down the rabbit hole we go.
               </p>
               <p>
-                We originally designed The Outpost as an experience where
-                co-located participants are completely immersed together in a
-                parallel VR world and can hear each other in their correct
-                locations in the actual room at SIGGRAPH. We had planned to
-                build a physical bar on the SIGGRAPH conference floor with real
-                walls, tables and chairs to sit in, as well as glasses that
-                people can carry containing tropical mixed drinks that they can
-                actually drink. When participants looked out of a virtual window
-                together, they would see an awe-inspiring vista of an alien
-                planet.
+                Wherein an elaborate scheme is hatched.
               </p>
               <p>
-                However, due to the post-COVID constraints that necessitate a
-                fully remote environment, we went back to the drawing board,
-                re-engineering and re-designing our project with the hope of
-                bringing participants the joy of connecting with colleagues at
-                SIGGRAPH -- all while they sit safely at home at their desk or
-                kitchen table and use their own VR headset.
+                Chaos theory tells us differently
               </p>
               <p>
-                Participants still have many ways to interact with each other
-                and with their environment, all while seeing and hearing each
-                other as procedurally generated robot avatars seated around a
-                virtual bar, perfectly situated for small group conversations.
-                The experience will feel unique, yet also powerfully familiar
-                and natural.
+                Strange words strange loops
               </p>
               <p>
-                This approach has utility as a prototype system architecture
-                that will allow remotely located people to interact and
-                collaborate with each other in exciting new ways. Also, people
-                will enjoy the chance to jump into a bar on another planet as a
-                temporary refuge from the neverending stream of Siggraph Zoom
-                meetings.
+                Unnatural
               </p>
               <p>
-                Our project moves beyond current paradigms, as it is a
-                fundamental rethinking of a shared VR experience in a parallel
-                world. Similarly to commercially available systems like
-                Altspace, VR Chat, and Hubs, our system uses only the inside-out
-                tracking sensors in the VR headset to track the rigid bodies of
-                each participant. However, in contrast to these systems, we
-                built our custom low-latency network stack from the ground up as
-                a plugin for Unreal Engine. This allows us to measure and
-                analyze meaningful data about the shared state of the
-                participants and the environment at any given moment. Our
-                underlying research platform is therefore immediately able to
-                support the broader VR development and scientific communities.
+                Subtle systemic propensities
               </p>
             </div>
           </div>
@@ -124,40 +77,14 @@
           class="relative z-10 text-base max-w-prose mx-auto mb-8 lg:max-w-5xl lg:mx-0 lg:pr-72"
         >
           <p class="text-lg text-gray-500 leading-7">
-            The user experience is also highly collaborative. When people have
-            correct spatial audio in a parallel world that is not bound by our
-            usual rules of perception, they can use their virtual co-locality to
-            collaborate in ways not available either remotely or in their normal
-            physical environment. Unlike most VR experiences, this experience
-            allows, and in fact encourages, many people to interact and
-            collaborate with each other at the same time. We are showing that
-            such systems can be low cost and can work using only inside-out
-            tracking technology to track each participant, and therefore can
-            easily be scaled up for mass use.
+            Revolutionary.
           </p>
         </div>
         <div class="lg:grid lg:grid-cols-2 lg:gap-8 lg:items-start">
           <div class="relative z-10 mb-12 lg:mb-0">
             <div class="mb-10 prose text-gray-500 mx-auto lg:max-w-none">
               <p>
-                SIGGRAPH attendees make a reservation for a time slot to visit
-                The Outpost on our website theoutpostvr.com. After registering,
-                they will receive an email with links and instructions to
-                download The Outpost from the Steam Store (a free Steam account
-                is required). After attendees open The Outpost in the Steam App
-                and put on their VR Headset, they will find themselves on an
-                alien planet with a cool retro-future vibe.
-              </p>
-              <p>
-                All of the other patrons at The Outpost are robots, as are you.
-                After selecting a seat at an available table, you will be able
-                to customize your robot avatar by selecting an avatar from a
-                population of procedurally generated robots.
-              </p>
-              <p>
-                You can then talk to the other robots at The Outpost, whom you
-                realize are fellow SIGGRAPH attendees. As you hang out with each
-                other, you drink your tropical drink through a straw.
+                Ben is a rad dude.
               </p>
             </div>
           </div>
@@ -210,9 +137,7 @@
                     />
                   </svg>
                   <p class="relative">
-                    There are many opportunities for research, and we expect
-                    that a number of scientific papers and some Ph.D.
-                    dissertations may come out of this work and related work.
+                    Reasonable bearing has nothing to do with bearing reasonability
                   </p>
                 </div>
               </div>
@@ -224,12 +149,12 @@
                 >
                   <img
                     class="w-12 h-12 sm:w-20 sm:h-20 rounded-full bg-purple-300"
-                    src="/img/ken_perlin_nyu.png"
-                    alt="Ken Perlin - NYU"
+                    src="/img/bose_logo.png"
+                    alt="Ben"
                   />
                 </div>
                 <span class="text-purple-300 font-semibold leading-6">
-                  <strong class="text-white font-semibold">Ken Perlin</strong>
+                  <strong class="text-white font-semibold">Ben Ahlbrand</strong>
                   <br class="sm:hidden" />
                   Professor, New York University
                 </span>

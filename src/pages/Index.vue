@@ -7,11 +7,10 @@
           <h2
             class="text-3xl leading-9 font-extrabold text-gray-900 sm:text-4xl sm:leading-10"
           >
-            Launching at SIGGRAPH 2020
+            Launched 1988
           </h2>
           <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
-            A unique take on social VR from the team that created Mary and the
-            Monster, Cave, and Flock.
+            Elaborate phrasing
           </p>
         </div>
       </div>
@@ -28,13 +27,13 @@
                     class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500"
                     id="item-1"
                   >
-                    participants
+                    ben
                   </dt>
                   <dd
                     class="order-1 text-4xl leading-none font-extrabold text-purple-600"
                     aria-describedby="item-1"
                   >
-                    2 to 4
+                  7
                   </dd>
                 </div>
                 <div
@@ -43,12 +42,12 @@
                   <dt
                     class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500"
                   >
-                    of avatars combinations
+                    kk
                   </dt>
                   <dd
                     class="order-1 text-4xl leading-none font-extrabold text-purple-600"
                   >
-                    Millions
+                    ..
                   </dd>
                 </div>
                 <div
@@ -57,12 +56,12 @@
                   <dt
                     class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500"
                   >
-                    of conversations
+                    3
                   </dt>
                   <dd
                     class="order-1 text-4xl leading-none font-extrabold text-purple-600"
                   >
-                    Thousands
+                    3
                   </dd>
                 </div>
                 <div
@@ -71,12 +70,12 @@
                   <dt
                     class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500"
                   >
-                    beach that is out of this world
+                    ok
                   </dt>
                   <dd
                     class="order-1 text-4xl leading-none font-extrabold text-purple-600"
                   >
-                    One
+                    again
                   </dd>
                 </div>
               </dl>
@@ -114,9 +113,7 @@
                     />
                   </svg>
                   <p class="relative">
-                    There are many opportunities for research, and we expect that
-                    a number of scientific papers and some Ph.D. dissertations may
-                    come out of this work and related work.
+                    Benjamandius
                   </p>
                 </div>
               </div>
@@ -128,14 +125,14 @@
                 >
                   <img
                     class="w-12 h-12 sm:w-20 sm:h-20 rounded-full bg-purple-300"
-                    src="/img/ken_perlin_nyu.png"
-                    alt="Ken Perlin - NYU"
+                    src="/img/nsf_logo.png"
+                    alt="Ben - NYU"
                   />
                 </div>
                 <span class="text-purple-300 font-semibold leading-6">
-                  <strong class="text-white font-semibold">Ken Perlin</strong>
+                  <strong class="text-white font-semibold">Ben Ahlbrand</strong>
                   <br class="sm:hidden" />
-                  Professor, New York University
+                  New York University
                 </span>
               </cite>
             </blockquote>
@@ -163,7 +160,7 @@ export default {
   },
   data: () => ({}),
   metaInfo: {
-    title: "The Outpost - A Social VR Experience",
+    title: "Benjamin Ahlbrand",
   },
 };
 </script>
