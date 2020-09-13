@@ -7,15 +7,15 @@ media_folder: "static/uploads"
 public_folder: "/uploads"
   
 collections:
-    - name: "faqs"
-      label: "FAQ"
-      folder: "content/faqs"
+    - name: "papers"
+      label: "PAPER"
+      folder: "content/papers"
       create: true
-      slug: "{{fields.position}}-{{fields.question}}"
+      slug: "{{fields.position}}-{{fields.title}}"
       fields:
-        - {label: "Question", name: "question", widget: "string"}
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Author List", name: "authorlist", widget: "string"}
         - {label: "Position", name: "position", widget: "number"}
-        - {label: "Body", name: "body", widget: "markdown"}
     - name: "docs"
       label: "Documentation"
       folder: "content/docc/docs"
