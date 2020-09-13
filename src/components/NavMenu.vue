@@ -140,15 +140,6 @@
                 >FAQ</a
               >
             </div>
-            <div>
-              <a
-                href="https://www.eventbrite.com/e/the-outpost-tickets-116952176107"
-                class="block w-full px-5 py-3 text-center font-medium text-purple-600 bg-gray-50 hover:bg-gray-100 hover:text-purple-700 focus:outline-none focus:bg-gray-100 focus:text-purple-700 transition duration-150 ease-in-out"
-                role="menuitem"
-              >
-                Register
-              </a>
-            </div>
           </div>
         </div>
       </div>

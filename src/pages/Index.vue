@@ -87,13 +87,7 @@
 
 
     <div class="max-w-screen-xl mx-auto flex flex-wrap mb-20">
-      <div class="flex w-full md:w-1/2">
-        <img
-          class="sm:max-w-full md:max-w-full object-cover "
-          src="/img/vertical_game_cover_6x9_outpost.png"
-          alt=""
-        />
-      </div>
+
       <div class="flex w-full md:w-1/2 ">
         <a href="https://frl.nyu.edu">
           <div class="relative p-4 lg:mt-40">
