@@ -1,0 +1,40 @@
+backend:
+    name: git-gateway
+    branch: main
+    repo: autotoon/theoutpostvrdotcom
+  
+media_folder: "static/uploads"
+public_folder: "/uploads"
+  
+collections:
+    - name: "faqs"
+      label: "FAQ"
+      folder: "content/faqs"
+      create: true
+      slug: "{{fields.position}}-{{fields.question}}"
+      fields:
+        - {label: "Question", name: "question", widget: "string"}
+        - {label: "Position", name: "position", widget: "number"}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "docs"
+      label: "Documentation"
+      folder: "content/docc/docs"
+      create: true
+      slug: "{{fields.slug}}"
+      fields:
+        - {label: "Slug", name: "slug", widget: "string"}
+        - {label: "Sidebar", name: "sidebar", widget: "select", options: ["docs"], default: ["docs"]}
+        - {label: "Description", name: "description", widget: "string", required: false}
+        - {label: "Previous", name: "prev", widget: "string", required: false}
+        - {label: "Next", name: "next", widget: "string", required: false}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "pages"
+      label: "Page"
+      folder: "content/pages"
+      create: true
+      slug: "{{fields.slug}}"
+      fields:
+        - {label: "Slug", name: "slug", widget: "string"}
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Description", name: "description", widget: "string", required: false}
+        - {label: "Body", name: "body", widget: "markdown"}
