@@ -4,15 +4,6 @@
 
     <!-- This component requires Tailwind CSS >= 1.5.1 and @tailwindcss/ui >= 0.4.0 -->
     <div class="relative bg-white">
-      <div class="lg:absolute lg:inset-0">
-        <div class="lg:absolute lg:inset-y-0 lg:left-0 lg:w-1/2">
-          <img
-            class="sm:max-w-full md:max-w-full object-cover lg:absolute"
-            src="/img/vertical_game_cover_6x9_outpost.png"
-            alt=""
-          />
-        </div>
-      </div>
       <div
         class="relative pt-12 pb-16 px-4 sm:pt-16 sm:px-6 lg:px-8 lg:max-w-7xl lg:mx-auto lg:grid lg:grid-cols-2"
       >
